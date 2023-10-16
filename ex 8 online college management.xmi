@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMI verified="false" xmi.version="1.2" timestamp="2023-10-16T10:13:43" xmlns:UML="http://schema.omg.org/spec/UML/1.4">
+ <XMI.header>
+  <XMI.documentation>
+   <XMI.exporter>umbrello uml modeller http://umbrello.kde.org</XMI.exporter>
+   <XMI.exporterVersion>1.6.18</XMI.exporterVersion>
+   <XMI.exporterEncoding>UnicodeUTF8</XMI.exporterEncoding>
+  </XMI.documentation>
+  <XMI.metamodel xmi.version="1.4" href="UML.xml" xmi.name="UML"/>
+ </XMI.header>
+ <XMI.content>
+  <UML:Model isSpecification="false" isAbstract="false" isLeaf="false" xmi.id="m1" isRoot="false" name="UML Model">
+   <UML:Namespace.ownedElement>
+    <UML:Stereotype visibility="public" isSpecification="false" namespace="m1" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="folder" name="folder"/>
+    <UML:Model visibility="public" isSpecification="false" namespace="m1" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="Logical_View" name="Logical View">
+     <UML:Namespace.ownedElement>
+      <UML:Package stereotype="folder" visibility="public" isSpecification="false" namespace="Logical_View" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="Datatypes" name="Datatypes">
+       <UML:Namespace.ownedElement>
+        <UML:DataType visibility="public" isSpecification="false" namespace="Datatypes" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="udBJGBJ3VVs1a" name="char"/>
+        <UML:DataType visibility="public" isSpecification="false" namespace="Datatypes" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="umxquAWHFSSLZ" name="int"/>
+        <UML:DataType visibility="public" isSpecification="false" namespace="Datatypes" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="uA3vdFv7P1qnq" name="float"/>
+        <UML:DataType visibility="public" isSpecification="false" namespace="Datatypes" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="uEHJ1Rz6n1Ssj" name="double"/>
+        <UML:DataType visibility="public" isSpecification="false" namespace="Datatypes" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="uNR6AffJqAyQc" name="bool"/>
+        <UML:DataType visibility="public" isSpecification="false" namespace="Datatypes" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="uZuwBKutihQIY" name="string"/>
+        <UML:DataType visibility="public" isSpecification="false" namespace="Datatypes" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="utByIxoaqIWA7" name="unsigned char"/>
+        <UML:DataType visibility="public" isSpecification="false" namespace="Datatypes" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="u355ciMYd8SoU" name="signed char"/>
+        <UML:DataType visibility="public" isSpecification="false" namespace="Datatypes" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="um7vNXUZ8xXNw" name="unsigned int"/>
+        <UML:DataType visibility="public" isSpecification="false" namespace="Datatypes" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="umTdLln5rqJbF" name="signed int"/>
+        <UML:DataType visibility="public" isSpecification="false" namespace="Datatypes" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="uUNUlAN0TRNks" name="short int"/>
+        <UML:DataType visibility="public" isSpecification="false" namespace="Datatypes" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="uIbruhO0osZzU" name="unsigned short int"/>
+        <UML:DataType visibility="public" isSpecification="false" namespace="Datatypes" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="uZYyCpT4E3yQ6" name="signed short int"/>
+        <UML:DataType visibility="public" isSpecification="false" namespace="Datatypes" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="u9091HQjh7xLG" name="long int"/>
+        <UML:DataType visibility="public" isSpecification="false" namespace="Datatypes" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="ucu1xEAror0zr" name="signed long int"/>
+        <UML:DataType visibility="public" isSpecification="false" namespace="Datatypes" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="uWmSKJV388k5F" name="unsigned long int"/>
+        <UML:DataType visibility="public" isSpecification="false" namespace="Datatypes" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="u8LlJmnnHd39r" name="long double"/>
+        <UML:DataType visibility="public" isSpecification="false" namespace="Datatypes" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="uy2CUBalSzYUw" name="wchar_t"/>
+       </UML:Namespace.ownedElement>
+      </UML:Package>
+     </UML:Namespace.ownedElement>
+     <XMI.extension xmi.extender="umbrello">
+      <diagrams resolution="96">
+       <diagram showopsig="1" linecolor="#ff0000" snapx="25" showattribassocs="1" snapy="25" linewidth="0" showattsig="1" textcolor="#000000" isopen="0" showpackage="1" showpubliconly="0" showstereotype="1" name="class diagram" font="Sans Serif,9,-1,0,50,0,0,0,0,0" canvasheight="0" canvaswidth="0" localid="-1" snapcsgrid="0" showgrid="0" showops="1" griddotcolor="#d3d3d3" backgroundcolor="#ffffff" usefillcolor="1" fillcolor="#ffff00" zoom="100" xmi.id="uTPW2ixltzUpI" documentation="" showscope="1" snapgrid="0" showatts="1" type="1">
+        <widgets/>
+        <messages/>
+        <associations/>
+       </diagram>
+      </diagrams>
+     </XMI.extension>
+    </UML:Model>
+    <UML:Model visibility="public" isSpecification="false" namespace="m1" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="Use_Case_View" name="Use Case View">
+     <UML:Namespace.ownedElement>
+      <UML:Actor visibility="public" isSpecification="false" namespace="Use_Case_View" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="uEVbdzrRIuTgx" name="students"/>
+      <UML:Actor visibility="public" isSpecification="false" namespace="Use_Case_View" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="uZlGfr0pQbNhA" name="administrator"/>
+      <UML:Actor visibility="public" isSpecification="false" namespace="Use_Case_View" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="uS6RLWGEvsBYO" name="college db"/>
+      <UML:UseCase visibility="public" isSpecification="false" namespace="Use_Case_View" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="uZeiriqlkluD4" name="make admission"/>
+      <UML:UseCase visibility="public" isSpecification="false" namespace="Use_Case_View" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="ucoAXvzXn9qw0" name="show fees structure"/>
+      <UML:UseCase visibility="public" isSpecification="false" namespace="Use_Case_View" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="uJJGBgijpF8xv" name="provide proofs"/>
+      <UML:UseCase visibility="public" isSpecification="false" namespace="Use_Case_View" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="ufa6c1DG8KUQh" name="verify  proofs"/>
+      <UML:UseCase visibility="public" isSpecification="false" namespace="Use_Case_View" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="uIxyFxkIdNvcY" name="give admission"/>
+      <UML:UseCase visibility="public" isSpecification="false" namespace="Use_Case_View" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="uCfK5Wa5au3Xs" name="store students name"/>
+      <UML:UseCase visibility="public" isSpecification="false" namespace="Use_Case_View" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="ubYnzNWEJj0l2" name="stores marks"/>
+      <UML:UseCase visibility="public" isSpecification="false" namespace="Use_Case_View" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="uROb304xHiKEy" name="pay the fees"/>
+      <UML:Association visibility="public" isSpecification="false" namespace="Use_Case_View" xmi.id="umukvhGmAjdHF" name="">
+       <UML:Association.connection>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="umZbchVI0xlnL" type="uEVbdzrRIuTgx" name="" aggregation="none"/>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="uJbK7fd8Dg3RB" type="uZeiriqlkluD4" name="" aggregation="none"/>
+       </UML:Association.connection>
+      </UML:Association>
+      <UML:Association visibility="public" isSpecification="false" namespace="Use_Case_View" xmi.id="uwulJy4hS2y6n" name="">
+       <UML:Association.connection>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="uh4nyUv61YTcb" type="uEVbdzrRIuTgx" name="" aggregation="none"/>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="urEJ2rNDVfN31" type="ucoAXvzXn9qw0" name="" aggregation="none"/>
+       </UML:Association.connection>
+      </UML:Association>
+      <UML:Association visibility="public" isSpecification="false" namespace="Use_Case_View" xmi.id="utGf3i7SDwIsx" name="">
+       <UML:Association.connection>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="u5t0Tca4O2oIH" type="uEVbdzrRIuTgx" name="" aggregation="none"/>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="uO594aweJrTQ9" type="uJJGBgijpF8xv" name="" aggregation="none"/>
+       </UML:Association.connection>
+      </UML:Association>
+      <UML:Association visibility="public" isSpecification="false" namespace="Use_Case_View" xmi.id="uFqmFXfip3yJr" name="">
+       <UML:Association.connection>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="u13OKgeeJ1D08" type="uEVbdzrRIuTgx" name="" aggregation="none"/>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="urQBtstFOF1Du" type="uROb304xHiKEy" name="" aggregation="none"/>
+       </UML:Association.connection>
+      </UML:Association>
+      <UML:Association visibility="public" isSpecification="false" namespace="Use_Case_View" xmi.id="upI1pQbjg4cOJ" name="">
+       <UML:Association.connection>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="uqKmPn6SGp8rG" type="uEVbdzrRIuTgx" name="" aggregation="none"/>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="ubkqAffX0tDzF" type="uCfK5Wa5au3Xs" name="" aggregation="none"/>
+       </UML:Association.connection>
+      </UML:Association>
+      <UML:Association visibility="public" isSpecification="false" namespace="Use_Case_View" xmi.id="u7dJjt8EVVmP0" name="">
+       <UML:Association.connection>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="uh4M7gm1D6t8e" type="uZlGfr0pQbNhA" name="" aggregation="none"/>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="uNRFysgTfPfP8" type="ucoAXvzXn9qw0" name="" aggregation="none"/>
+       </UML:Association.connection>
+      </UML:Association>
+      <UML:Association visibility="public" isSpecification="false" namespace="Use_Case_View" xmi.id="u0TqTQZWDx73H" name="">
+       <UML:Association.connection>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="ujBMZokS8TAYy" type="uZlGfr0pQbNhA" name="" aggregation="none"/>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="uWCDcnzgtbnb3" type="ufa6c1DG8KUQh" name="" aggregation="none"/>
+       </UML:Association.connection>
+      </UML:Association>
+      <UML:Association visibility="public" isSpecification="false" namespace="Use_Case_View" xmi.id="uAd1cEgNkvzZ3" name="">
+       <UML:Association.connection>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="u0ikWbtszd5qz" type="uZlGfr0pQbNhA" name="" aggregation="none"/>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="uL6Y1uWh5Ptne" type="uIxyFxkIdNvcY" name="" aggregation="none"/>
+       </UML:Association.connection>
+      </UML:Association>
+      <UML:Association visibility="public" isSpecification="false" namespace="Use_Case_View" xmi.id="u5lwkBOklLf1X" name="">
+       <UML:Association.connection>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="uABcLqaGloD2e" type="uS6RLWGEvsBYO" name="" aggregation="none"/>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="uZJs2gRxXp4Oh" type="uCfK5Wa5au3Xs" name="" aggregation="none"/>
+       </UML:Association.connection>
+      </UML:Association>
+      <UML:Association visibility="public" isSpecification="false" namespace="Use_Case_View" xmi.id="uRYIES2oPQwPV" name="">
+       <UML:Association.connection>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="ukMcuVh4wUeqN" type="uS6RLWGEvsBYO" name="" aggregation="none"/>
+        <UML:AssociationEnd changeability="changeable" visibility="public" isNavigable="true" isSpecification="false" xmi.id="uND7aJMgtdG0M" type="ubYnzNWEJj0l2" name="" aggregation="none"/>
+       </UML:Association.connection>
+      </UML:Association>
+     </UML:Namespace.ownedElement>
+     <XMI.extension xmi.extender="umbrello">
+      <diagrams resolution="96">
+       <diagram showopsig="1" linecolor="#ff0000" snapx="25" showattribassocs="1" snapy="25" linewidth="0" showattsig="1" textcolor="#000000" isopen="1" showpackage="1" showpubliconly="0" showstereotype="1" name="online college managment system" font="Sans Serif,9,-1,0,50,0,0,0,0,0" canvasheight="431" canvaswidth="740" localid="-1" snapcsgrid="0" showgrid="0" showops="1" griddotcolor="#d3d3d3" backgroundcolor="#ffffff" usefillcolor="1" fillcolor="#ffff00" zoom="100" xmi.id="uaMm8tRGXlZDw" documentation="" showscope="1" snapgrid="0" showatts="1" type="2">
+        <widgets>
+         <actorwidget width="60" showstereotype="1" x="-815" usesdiagramusefillcolor="0" y="0" usesdiagramfillcolor="0" isinstance="0" localid="uC0ffCB6HCVkS" fillcolor="#ffff00" height="60" linecolor="#ff0000" xmi.id="uEVbdzrRIuTgx" autoresize="1" textcolor="#000000" usefillcolor="1" linewidth="0" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
+         <actorwidget width="87" showstereotype="1" x="-182" usesdiagramusefillcolor="0" y="-278" usesdiagramfillcolor="0" isinstance="0" localid="uErF6eYOk6RYE" fillcolor="#ffff00" height="87" linecolor="#ff0000" xmi.id="uZlGfr0pQbNhA" autoresize="1" textcolor="#000000" usefillcolor="1" linewidth="0" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
+         <actorwidget width="68" showstereotype="1" x="-143" usesdiagramusefillcolor="0" y="-61" usesdiagramfillcolor="0" isinstance="0" localid="uyqSc6pI3wVwQ" fillcolor="#ffff00" height="68" linecolor="#ff0000" xmi.id="uS6RLWGEvsBYO" autoresize="1" textcolor="#000000" usefillcolor="1" linewidth="0" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
+         <usecasewidget width="104" showstereotype="1" x="-563" usesdiagramusefillcolor="0" y="-300" usesdiagramfillcolor="0" isinstance="0" localid="ugBphFQpPg5NM" fillcolor="#ffff00" height="50" linecolor="#ff0000" xmi.id="uZeiriqlkluD4" autoresize="1" textcolor="#000000" usefillcolor="1" linewidth="0" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
+         <usecasewidget width="125" showstereotype="1" x="-574" usesdiagramusefillcolor="0" y="-236" usesdiagramfillcolor="0" isinstance="0" localid="uXOtzMTpjvWtx" fillcolor="#ffff00" height="50" linecolor="#ff0000" xmi.id="ucoAXvzXn9qw0" autoresize="1" textcolor="#000000" usefillcolor="1" linewidth="0" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
+         <usecasewidget width="92" showstereotype="1" x="-557" usesdiagramusefillcolor="0" y="-176" usesdiagramfillcolor="0" isinstance="0" localid="uy9b1aeCsTNeW" fillcolor="#ffff00" height="50" linecolor="#ff0000" xmi.id="uJJGBgijpF8xv" autoresize="1" textcolor="#000000" usefillcolor="1" linewidth="0" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
+         <usecasewidget width="84" showstereotype="1" x="-550" usesdiagramusefillcolor="0" y="-115" usesdiagramfillcolor="0" isinstance="0" localid="u9sISl35UmTrf" fillcolor="#ffff00" height="50" linecolor="#ff0000" xmi.id="ufa6c1DG8KUQh" autoresize="1" textcolor="#000000" usefillcolor="1" linewidth="0" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
+         <usecasewidget width="95" showstereotype="1" x="-549" usesdiagramusefillcolor="0" y="-52" usesdiagramfillcolor="0" isinstance="0" localid="ufIRRqbDSBLKS" fillcolor="#ffff00" height="50" linecolor="#ff0000" xmi.id="uIxyFxkIdNvcY" autoresize="1" textcolor="#000000" usefillcolor="1" linewidth="0" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
+         <usecasewidget width="128" showstereotype="1" x="-560" usesdiagramusefillcolor="0" y="11" usesdiagramfillcolor="0" isinstance="0" localid="uI8AUJYJMUyUq" fillcolor="#ffff00" height="50" linecolor="#ff0000" xmi.id="uCfK5Wa5au3Xs" autoresize="1" textcolor="#000000" usefillcolor="1" linewidth="0" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
+         <usecasewidget width="109" showstereotype="1" x="-542" usesdiagramusefillcolor="0" y="81" usesdiagramfillcolor="0" isinstance="0" localid="umE5rjaUXIDgM" fillcolor="#ffff00" height="50" linecolor="#ff0000" xmi.id="ubYnzNWEJj0l2" autoresize="0" textcolor="#000000" usefillcolor="1" linewidth="0" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
+         <usecasewidget width="79" showstereotype="1" x="-660" usesdiagramusefillcolor="0" y="-51" usesdiagramfillcolor="0" isinstance="0" localid="uykJwpggKmNH9" fillcolor="#ffff00" height="50" linecolor="#ff0000" xmi.id="uROb304xHiKEy" autoresize="1" textcolor="#000000" usefillcolor="1" linewidth="0" font="Sans Serif,9,-1,0,50,0,0,0,0,0"/>
+        </widgets>
+        <messages/>
+        <associations>
+         <assocwidget indexa="1" linecolor="#ff0000" usesdiagramfillcolor="1" widgetbid="uZeiriqlkluD4" indexb="1" linewidth="0" seqnum="" textcolor="none" usesdiagramusefillcolor="1" totalcounta="2" totalcountb="2" widgetaid="uEVbdzrRIuTgx" font="Sans Serif,9,-1,0,50,0,0,0,0,0" localid="uF7aUpWEu4l0n" usefillcolor="1" fillcolor="none" xmi.id="umukvhGmAjdHF" autoresize="1" type="503">
+          <linepath layout="Direct">
+           <startpoint startx="-755" starty="0"/>
+           <endpoint endx="-563" endy="-250"/>
+          </linepath>
+         </assocwidget>
+         <assocwidget indexa="1" linecolor="#ff0000" usesdiagramfillcolor="1" widgetbid="uJJGBgijpF8xv" indexb="1" linewidth="0" seqnum="" textcolor="none" usesdiagramusefillcolor="1" totalcounta="2" totalcountb="2" widgetaid="uEVbdzrRIuTgx" font="Sans Serif,9,-1,0,50,0,0,0,0,0" localid="uLEj3mEweXQl6" usefillcolor="1" fillcolor="none" xmi.id="utGf3i7SDwIsx" autoresize="1" type="503">
+          <linepath layout="Direct">
+           <startpoint startx="-755" starty="0"/>
+           <endpoint endx="-557" endy="-126"/>
+          </linepath>
+         </assocwidget>
+         <assocwidget indexa="1" linecolor="#ff0000" usesdiagramfillcolor="1" widgetbid="uROb304xHiKEy" indexb="1" linewidth="0" seqnum="" textcolor="none" usesdiagramusefillcolor="1" totalcounta="2" totalcountb="2" widgetaid="uEVbdzrRIuTgx" font="Sans Serif,9,-1,0,50,0,0,0,0,0" localid="uF0bQWNCqyz0A" usefillcolor="1" fillcolor="none" xmi.id="uFqmFXfip3yJr" autoresize="1" type="503">
+          <linepath layout="Direct">
+           <startpoint startx="-755" starty="0"/>
+           <endpoint endx="-660" endy="-1"/>
+          </linepath>
+         </assocwidget>
+         <assocwidget indexa="1" linecolor="#ff0000" usesdiagramfillcolor="1" widgetbid="ucoAXvzXn9qw0" indexb="1" linewidth="0" seqnum="" textcolor="none" usesdiagramusefillcolor="1" totalcounta="2" totalcountb="2" widgetaid="uZlGfr0pQbNhA" font="Sans Serif,9,-1,0,50,0,0,0,0,0" localid="uDRNNrd68XQMu" usefillcolor="1" fillcolor="none" xmi.id="u7dJjt8EVVmP0" autoresize="1" type="503">
+          <linepath layout="Direct">
+           <startpoint startx="-182" starty="-211"/>
+           <endpoint endx="-449" endy="-211"/>
+          </linepath>
+         </assocwidget>
+         <assocwidget indexa="1" linecolor="#ff0000" usesdiagramfillcolor="1" widgetbid="ufa6c1DG8KUQh" indexb="1" linewidth="0" seqnum="" textcolor="none" usesdiagramusefillcolor="1" totalcounta="2" totalcountb="2" widgetaid="uZlGfr0pQbNhA" font="Sans Serif,9,-1,0,50,0,0,0,0,0" localid="uLY8uoyG9C8D1" usefillcolor="1" fillcolor="none" xmi.id="u0TqTQZWDx73H" autoresize="1" type="503">
+          <linepath layout="Direct">
+           <startpoint startx="-182" starty="-191"/>
+           <endpoint endx="-466" endy="-115"/>
+          </linepath>
+         </assocwidget>
+         <assocwidget indexa="1" linecolor="#ff0000" usesdiagramfillcolor="1" widgetbid="uIxyFxkIdNvcY" indexb="1" linewidth="0" seqnum="" textcolor="none" usesdiagramusefillcolor="1" totalcounta="2" totalcountb="2" widgetaid="uZlGfr0pQbNhA" font="Sans Serif,9,-1,0,50,0,0,0,0,0" localid="uO5SKa7YFmCtv" usefillcolor="1" fillcolor="none" xmi.id="uAd1cEgNkvzZ3" autoresize="1" type="503">
+          <linepath layout="Direct">
+           <startpoint startx="-182" starty="-191"/>
+           <endpoint endx="-454" endy="-52"/>
+          </linepath>
+         </assocwidget>
+         <assocwidget indexa="1" linecolor="#ff0000" usesdiagramfillcolor="1" widgetbid="uCfK5Wa5au3Xs" indexb="1" linewidth="0" seqnum="" textcolor="none" usesdiagramusefillcolor="1" totalcounta="2" totalcountb="2" widgetaid="uS6RLWGEvsBYO" font="Sans Serif,9,-1,0,50,0,0,0,0,0" localid="utZmTp4utS8EQ" usefillcolor="1" fillcolor="none" xmi.id="u5lwkBOklLf1X" autoresize="1" type="503">
+          <linepath layout="Direct">
+           <startpoint startx="-143" starty="7"/>
+           <endpoint endx="-432" endy="11"/>
+          </linepath>
+         </assocwidget>
+         <assocwidget indexa="1" linecolor="#ff0000" usesdiagramfillcolor="1" widgetbid="ubYnzNWEJj0l2" indexb="1" linewidth="0" seqnum="" textcolor="none" usesdiagramusefillcolor="1" totalcounta="2" totalcountb="2" widgetaid="uS6RLWGEvsBYO" font="Sans Serif,9,-1,0,50,0,0,0,0,0" localid="u3lgLwqiQJ8Qx" usefillcolor="1" fillcolor="none" xmi.id="uRYIES2oPQwPV" autoresize="1" type="503">
+          <linepath layout="Direct">
+           <startpoint startx="-143" starty="7"/>
+           <endpoint endx="-433" endy="81"/>
+          </linepath>
+         </assocwidget>
+        </associations>
+       </diagram>
+      </diagrams>
+     </XMI.extension>
+    </UML:Model>
+    <UML:Model visibility="public" isSpecification="false" namespace="m1" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="Component_View" name="Component View">
+     <UML:Namespace.ownedElement/>
+    </UML:Model>
+    <UML:Model visibility="public" isSpecification="false" namespace="m1" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="Deployment_View" name="Deployment View">
+     <UML:Namespace.ownedElement/>
+    </UML:Model>
+    <UML:Model visibility="public" isSpecification="false" namespace="m1" isAbstract="false" isLeaf="false" isRoot="false" xmi.id="Entity_Relationship_Model" name="Entity Relationship Model">
+     <UML:Namespace.ownedElement/>
+    </UML:Model>
+   </UML:Namespace.ownedElement>
+  </UML:Model>
+ </XMI.content>
+ <XMI.extensions xmi.extender="umbrello">
+  <docsettings viewid="uaMm8tRGXlZDw" uniqueid="uND7aJMgtdG0M" documentation=""/>
+  <listview>
+   <listitem open="1" type="800" id="Views">
+    <listitem open="1" type="821" id="Component_View"/>
+    <listitem open="1" type="827" id="Deployment_View"/>
+    <listitem open="1" type="836" id="Entity_Relationship_Model"/>
+    <listitem open="1" type="801" id="Logical_View">
+     <listitem open="0" type="807" id="uTPW2ixltzUpI" label="class diagram"/>
+     <listitem open="0" type="830" id="Datatypes">
+      <listitem open="0" type="829" id="uNR6AffJqAyQc"/>
+      <listitem open="0" type="829" id="udBJGBJ3VVs1a"/>
+      <listitem open="0" type="829" id="uEHJ1Rz6n1Ssj"/>
+      <listitem open="0" type="829" id="uA3vdFv7P1qnq"/>
+      <listitem open="0" type="829" id="umxquAWHFSSLZ"/>
+      <listitem open="0" type="829" id="u8LlJmnnHd39r"/>
+      <listitem open="0" type="829" id="u9091HQjh7xLG"/>
+      <listitem open="0" type="829" id="uUNUlAN0TRNks"/>
+      <listitem open="0" type="829" id="u355ciMYd8SoU"/>
+      <listitem open="0" type="829" id="umTdLln5rqJbF"/>
+      <listitem open="0" type="829" id="ucu1xEAror0zr"/>
+      <listitem open="0" type="829" id="uZYyCpT4E3yQ6"/>
+      <listitem open="0" type="829" id="uZuwBKutihQIY"/>
+      <listitem open="0" type="829" id="utByIxoaqIWA7"/>
+      <listitem open="0" type="829" id="um7vNXUZ8xXNw"/>
+      <listitem open="0" type="829" id="uWmSKJV388k5F"/>
+      <listitem open="0" type="829" id="uIbruhO0osZzU"/>
+      <listitem open="0" type="829" id="uy2CUBalSzYUw"/>
+     </listitem>
+    </listitem>
+    <listitem open="1" type="802" id="Use_Case_View">
+     <listitem open="1" type="811" id="uZlGfr0pQbNhA"/>
+     <listitem open="1" type="811" id="uS6RLWGEvsBYO"/>
+     <listitem open="1" type="812" id="uIxyFxkIdNvcY"/>
+     <listitem open="1" type="812" id="uZeiriqlkluD4"/>
+     <listitem open="0" type="805" id="uaMm8tRGXlZDw" label="online college managment system"/>
+     <listitem open="1" type="812" id="uROb304xHiKEy"/>
+     <listitem open="1" type="812" id="uJJGBgijpF8xv"/>
+     <listitem open="1" type="812" id="ucoAXvzXn9qw0"/>
+     <listitem open="1" type="812" id="uCfK5Wa5au3Xs"/>
+     <listitem open="1" type="812" id="ubYnzNWEJj0l2"/>
+     <listitem open="1" type="811" id="uEVbdzrRIuTgx"/>
+     <listitem open="1" type="812" id="ufa6c1DG8KUQh"/>
+    </listitem>
+   </listitem>
+  </listview>
+  <codegeneration>
+   <codegenerator language="C++"/>
+  </codegeneration>
+ </XMI.extensions>
+</XMI>
